@@ -6,9 +6,17 @@ readme = "README.md"
 requires-python = ">=3.11"
 dependencies = []
 license = { text = "MIT" }
-authors = [
-    { name = "goggle555", email = "goggle555@fives.tech" }
-keywords = ["terminal", "ansi", "color", "style", "text", "formatting", "console", "nodejs"]
+authors = [{ name = "goggle555", email = "goggle555@fives.tech" }]
+keywords = [
+    "terminal",
+    "ansi",
+    "color",
+    "style",
+    "text",
+    "formatting",
+    "console",
+    "nodejs",
+]
 classifiers = [
     "Development Status :: 5 - Production/Stable",
     "Intended Audience :: Developers",
