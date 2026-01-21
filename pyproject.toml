@@ -1,6 +1,6 @@
 [project]
 name = "styletext"
-version = "1.0.0"
+version = "1.0.1"
 description = "A Python library providing a styleText function similar to Node.js util.styleText"
 readme = "README.md"
 requires-python = ">=3.11"
