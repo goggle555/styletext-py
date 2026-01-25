@@ -39,5 +39,3 @@ Issues = "https://github.com/goggle555/styletext-py/issues"
 requires = ["hatchling"]
 build-backend = "hatchling.build"
 
-[tool.uv]
-dev-dependencies = []
